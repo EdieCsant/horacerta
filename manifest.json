@@ -1,0 +1,13 @@
+{
+    "name": "HoraCerta",
+    "start_url": "/horacerta",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/hora.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
